@@ -1,0 +1,17 @@
+{
+    "execution_status": "SUCCESS",
+    "request_id": "AUTO-2da961c9",
+    "processed_at_utc": "2026-10-21T11:18:06.781378+00:00",
+    "source": {
+        "bucket": "automated-incoming-bucket",
+        "key": "incoming_files\\testcase - Copy - Copy.txt"
+    },
+    "metrics": {
+        "line_count": 1,
+        "word_count": 5,
+        "character_count_raw": 30,
+        "character_count_no_whitespace": 26,
+        "longest_word": "function",
+        "uppercase_letters_count": 4
+    }
+}

@@ -1,0 +1,3 @@
+AWS Lambda is an event driven serverless computing platform.
+It automatically scales and runs code in response to events.
+Serverless architectures make development faster and cheaper.

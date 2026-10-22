@@ -1,0 +1,4 @@
+Hello AWS Cloud Engineer!
+This is an automated serverless processing simulation.
+AWS Lambda processes files uploaded to Amazon S3.
+Serverless architectures are scalable, reliable, and cost effective.
